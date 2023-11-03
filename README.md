@@ -25,3 +25,7 @@ Parking at the University at Buffalo's North Campus can be extremely limited at 
 [LCD Display](https://medium.com/@thedyslexiccoder/how-to-set-up-a-raspberry-pi-4-with-lcd-display-using-i2c-backpack-189a0760ae15)
 
 [RPLCD Docs](https://rplcd.readthedocs.io/en/stable/)
+
+## Issues
+- not creating virtual env before installing libraries
+- no I2C backpack on LCD display increased code and wiring complexity
