@@ -21,3 +21,5 @@ Parking at the University at Buffalo's North Campus can be extremely limited at 
 [Working with model results](https://github.com/niconielsen32/YOLOv8-Class/blob/main/YOLOv8InferenceClass.py)
 
 [Ultralytics](https://github.com/ultralytics/ultralytics/tree/main)
+
+[LCD Display](https://medium.com/@thedyslexiccoder/how-to-set-up-a-raspberry-pi-4-with-lcd-display-using-i2c-backpack-189a0760ae15)
