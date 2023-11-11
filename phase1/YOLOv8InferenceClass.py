@@ -27,7 +27,7 @@ class ObjectDetection:
 
         path = os.getcwd()
         print(path)
-        model = YOLO("best.pt")  # load a pretrained YOLOv8n model
+        model = YOLO("best_100.pt")  # load a pretrained YOLOv8n model
         model.fuse()
 
         return model
